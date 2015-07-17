@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Aplikacja loguje do logu systemowego swoj stan. Nic innego nie robi.</string>
+    <string name="app_name">Steps02Activity</string>
+    <string name="podoba">Podoba mi się to!</string>
+    <string name="testowy">To jest tylko test.</string>
+    <string name="cos_o_ali">Ala ma kota</string>
+</resources>
